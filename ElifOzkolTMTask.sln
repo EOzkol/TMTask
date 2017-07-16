@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElifOzkolTMTask", "ElifOzkolTMTask\ElifOzkolTMTask.csproj", "{A0003474-2CC5-41A8-817E-F399D71E9B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElifOzkolTMTask.Tests", "ElifOzkolTMTask.Tests\ElifOzkolTMTask.Tests.csproj", "{06DC016D-5E33-44E8-964E-86562E7803A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0003474-2CC5-41A8-817E-F399D71E9B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0003474-2CC5-41A8-817E-F399D71E9B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0003474-2CC5-41A8-817E-F399D71E9B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0003474-2CC5-41A8-817E-F399D71E9B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06DC016D-5E33-44E8-964E-86562E7803A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DC016D-5E33-44E8-964E-86562E7803A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DC016D-5E33-44E8-964E-86562E7803A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DC016D-5E33-44E8-964E-86562E7803A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
